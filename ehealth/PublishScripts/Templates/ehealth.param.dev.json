@@ -1,0 +1,29 @@
+{
+  "siteName": {
+    "value": "ehe"
+  },
+  "hostingPlanName": {
+    "value": "soloworks"
+  },
+  "siteLocation": {
+    "value": "West Europe"
+  },
+  "sku": {
+    "value": "Free"
+  },
+  "workerSize": {
+    "value": "0"
+  },
+  "siteMode": {
+    "value": "Limited"
+  },
+  "computeMode": {
+    "value": "0"
+  },
+  "subscriptionId": {
+    "value": "d2620b6c-054c-4774-9018-7dce9e322e85"
+  },
+  "resourceGroup": {
+    "value": "Default-Storage-WestEurope"
+  }
+}
